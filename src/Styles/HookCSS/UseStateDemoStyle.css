@@ -1,0 +1,37 @@
+.useState-all{
+    text-align: center;
+}
+.useState-grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.useState-grid-item0{
+    text-align: end;
+}
+.useState-grid-item2{
+    text-align: start;
+}
+
+.useState-button{
+    width: 100px;
+    height: 45px;
+    border: aliceblue solid;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.useState-button:hover{
+    color: green;
+    border-color: green ;
+}
+
+.useState-input{
+    width: 200px;
+    height: 25px;
+    border: aliceblue solid 1px;
+    border-color: burlywood;
+    border-radius: 5px;
+    margin: 5px;
+}
